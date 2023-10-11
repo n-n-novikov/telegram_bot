@@ -37,7 +37,7 @@ def get_compliment():
 
 
 
-TOKEN = "
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 
