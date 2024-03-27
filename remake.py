@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-import telebot
 from urllib.request import Request, urlopen
 import random
 import re
